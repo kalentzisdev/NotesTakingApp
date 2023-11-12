@@ -24,7 +24,7 @@ namespace NotesTakingApp
                 Directory.CreateDirectory(notesDirectory);
             }
 
-            PopulateDataGridView();
+            //PopulateDataGridView();
         }
 
 
