@@ -150,14 +150,9 @@ namespace NotesTakingApp
                             notes.Rows.Add(newRow);
                         }
 
-                        
-
                     }
                 }
             }
-
         }
-
-
     }
 }
